@@ -1,0 +1,52 @@
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.exe
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.deps.json
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.json
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise\bin\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise\obj\Debug\netcoreapp3.1\CodingExercise.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.exe
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.deps.json
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.json
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise - Student\bin\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise - Student\obj\Debug\netcoreapp3.1\CodingExercise.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.exe
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.deps.json
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.json
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\Patrick\source\repos\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.genruntimeconfig.cache
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.exe
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.deps.json
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.json
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.runtimeconfig.dev.json
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\LILU1\Desktop\CodingExercise - Solution\bin\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.csprojAssemblyReference.cache
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfoInputs.cache
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.AssemblyInfo.cs
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.dll
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.pdb
+C:\Users\LILU1\Desktop\CodingExercise - Solution\obj\Debug\netcoreapp3.1\CodingExercise.genruntimeconfig.cache
